@@ -35,7 +35,7 @@ def load_data():
 df = load_data()
 
 # Interface utilisateur
-st.title("NOTES DS et TP PYTHON")
+st.title("NOTES DS PYTHON")
 st.header("1LM A.U 2024-2025")
 
 # Recherche étudiante
