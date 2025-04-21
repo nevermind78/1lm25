@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(page_title="Notes DS Python 1LM", page_icon=":bar_chart:")
+st.set_page_config(page_title="* Notes DS Python 1LM *", page_icon=":bar_chart:")
 
 # 1. Fonction de catégorisation des notes
 def categorize_notes(note):
